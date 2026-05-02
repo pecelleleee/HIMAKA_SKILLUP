@@ -4,7 +4,6 @@
   box-sizing: border-box; /* Biar ukuran lebih konsisten */
 }
 
-
 body {
   font-family: "Segoe UI", sans-serif; /* Font clean modern */
   background-color: #0f0f0f; /* Background gelap */
@@ -16,8 +15,8 @@ body {
    HEADER (FLEXBOX)
 ========================= */
 header {
-  display: flex; /* Aktifkan flexbox */
-  justify-content: space-between; /* Jarak kiri-kanan */
+  display: flex; /* Aktifkan flexbox 1 */
+  justify-content: space-between; /* Jarak kiri-kanan 2 */
   align-items: center; /* Tengah vertikal */
   padding: 25px 40px; /* Ruang dalam */
 
